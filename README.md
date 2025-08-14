@@ -3,6 +3,8 @@
 # Project Description:
 This project predicts the selling prices of houses based on various features such as area, number of bedrooms, bathrooms, stories, and more. 
 It uses data preprocessing techniques (outlier handling, feature transformation), and machine learning models to achieve a good accuracy.
+
+# Dataset Information:
 Dataset: Housing.csv
 Features: price, area, bedrooms, bathrooms, stories, parking, etc.
 Target Variable: price
